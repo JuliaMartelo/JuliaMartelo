@@ -3,6 +3,8 @@
 Estou no 2 semestre de DEV e aprendendo C#
 
 
+![rapunzel-tangled](https://github.com/user-attachments/assets/f6bb290e-1b18-46e0-b177-aa9360e5b4f3)
+
 ## Conhecimentos 🌟
 <div style="display: inline_block">
   <img  height="60" windth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -12,10 +14,10 @@ Estou no 2 semestre de DEV e aprendendo C#
           
   <img height= "60" windth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
                   
- 
+ ##
 </div> <br>
 
-##Contato <br> <br>
+### Contato 🌟 <br> <br>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 <a href="https://www.linkedin.com/in/julia-martelo-1b4706305/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br> <br>
 
