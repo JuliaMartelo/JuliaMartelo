@@ -1,5 +1,7 @@
 ##Olá eu sou a Júlia 👋
 
+Estou no 2 semestre de DEV e aprendendo C#
+
 
 ## Conhecimentos 🌟
 <div style="display: inline_block">
