@@ -1,6 +1,6 @@
 ##Olá eu sou a Júlia 👋
 
-Estudo no 3 semestre de DEV e aprendendo API
+Estou no 4 semestre de DEV 
 
 
 ![rapunzel-tangled](https://github.com/user-attachments/assets/f6bb290e-1b18-46e0-b177-aa9360e5b4f3)
