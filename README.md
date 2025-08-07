@@ -1,4 +1,4 @@
-#Olá! Meu nome é Júlia, tenho 17 anos e sou estudante de Desenvolvimento de Sistemas, atualmente no 4º e último semestre do curso técnico no SENAI. Tenho paixão por tecnologia e estou sempre em busca de novos conhecimentos, com o objetivo de me desenvolver profissionalmente e conquistar meu espaço no mercado de trabalho. 🖥️
+Olá! Meu nome é Júlia, tenho 17 anos e sou estudante de Desenvolvimento de Sistemas, atualmente no 4º e último semestre do curso técnico no SENAI. Tenho paixão por tecnologia e estou sempre em busca de novos conhecimentos, com o objetivo de me desenvolver profissionalmente e conquistar meu espaço no mercado de trabalho. 🖥️
 ##
 
 ![giphy](https://github.com/user-attachments/assets/7c7d6ce5-442a-4600-a944-ebf13610d991)
@@ -29,7 +29,7 @@
   <img height= "60" windth="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" />
           
   ##
-  ##Ferramentas de Desenvolvimento🔗
+  ## Ferramentas de Desenvolvimento🔗
 
   <img height="60" windth="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg"/>
   <img height="60" windth="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Postman.svg"/>
