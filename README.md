@@ -1,4 +1,4 @@
-Olá! Meu nome é Júlia, tenho 18 anos e sou estudante de Desenvolvimento de Sistemas, atualmente no 4º e último semestre do curso técnico no SENAI. Tenho paixão por tecnologia e estou sempre em busca de novos conhecimentos, com o objetivo de me desenvolver profissionalmente e conquistar meu espaço no mercado de trabalho. 🖥️
+Olá! Meu nome é Júlia, tenho 18 anos e sou formada em Desenvolvimento de Sistemas no curso técnico no SENAI. Tenho paixão por tecnologia e estou sempre em busca de novos conhecimentos, com o objetivo de me desenvolver profissionalmente e conquistar meu espaço no mercado de trabalho. 🖥️
 ##
 
 ![giphy](https://github.com/user-attachments/assets/7c7d6ce5-442a-4600-a944-ebf13610d991)
