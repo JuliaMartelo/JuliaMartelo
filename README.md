@@ -3,15 +3,6 @@ Olá! Meu nome é Júlia, tenho 18 anos e sou formada em Desenvolvimento de Sist
 
 ![giphy](https://github.com/user-attachments/assets/7c7d6ce5-442a-4600-a944-ebf13610d991)
 
-##
-### 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuliaMartelo&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaMartelo&layout=compact&theme=tokyonight" />
-</p>
 
 ##
 
