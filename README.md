@@ -1,7 +1,9 @@
 👩‍💻 Olá, eu sou a Júlia!
 
 🎓 Formada no curso técnico de Desenvolvimento de Sistemas pelo SENAI
+
 📚 Atualmente cursando Sistemas de Informação na Universidade Anhembi Morumbi (UAM)
+
 💻 Apaixonada por tecnologia e desenvolvimento de software
 
 Tenho grande interesse na área de tecnologia e estou sempre em busca de aprender novas ferramentas, linguagens e boas práticas de desenvolvimento. Meu objetivo é evoluir constantemente como desenvolvedora, criar projetos cada vez melhores e conquistar meu espaço no mercado de tecnologia.
