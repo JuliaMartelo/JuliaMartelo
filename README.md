@@ -1,10 +1,14 @@
-Olá! Meu nome é Júlia, tenho 18 anos e sou formada em Desenvolvimento de Sistemas no curso técnico no SENAI e atualmente cursando Sistemas de Informação pela universidade UAM. Tenho paixão por tecnologia e estou sempre em busca de novos conhecimentos, com o objetivo de me desenvolver profissionalmente e conquistar meu espaço no mercado de trabalho. 🖥️
+👩‍💻 Olá, eu sou a Júlia!
+
+🎓 Formada no curso técnico de Desenvolvimento de Sistemas pelo SENAI
+📚 Atualmente cursando Sistemas de Informação na Universidade Anhembi Morumbi (UAM)
+💻 Apaixonada por tecnologia e desenvolvimento de software
+
+Tenho grande interesse na área de tecnologia e estou sempre em busca de aprender novas ferramentas, linguagens e boas práticas de desenvolvimento. Meu objetivo é evoluir constantemente como desenvolvedora, criar projetos cada vez melhores e conquistar meu espaço no mercado de tecnologia.
 ##
 
 ![giphy](https://github.com/user-attachments/assets/7c7d6ce5-442a-4600-a944-ebf13610d991)
 
-
-##
 
 ## Tecnologias 🌟
 <div style="display: inline_block">
